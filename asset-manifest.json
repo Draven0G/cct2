@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https//Draven0G.github.io/cct2/static/css/main.e6c13ad2.css",
+    "main.js": "/https//Draven0G.github.io/cct2/static/js/main.79226685.js",
+    "static/js/453.a540150e.chunk.js": "/https//Draven0G.github.io/cct2/static/js/453.a540150e.chunk.js",
+    "index.html": "/https//Draven0G.github.io/cct2/index.html",
+    "main.e6c13ad2.css.map": "/https//Draven0G.github.io/cct2/static/css/main.e6c13ad2.css.map",
+    "main.79226685.js.map": "/https//Draven0G.github.io/cct2/static/js/main.79226685.js.map",
+    "453.a540150e.chunk.js.map": "/https//Draven0G.github.io/cct2/static/js/453.a540150e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.79226685.js"
+  ]
+}
